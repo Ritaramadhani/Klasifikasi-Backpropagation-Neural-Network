@@ -21,6 +21,7 @@ Teknik analisis data dalam penelitian ini adalah sebagai berikut
 	e.	Menghitung akurasi model berdasarkan data testing.
 7.	Penarikan kesimpulan
 
+# Interpretasi Hasil
 a.	Training dan Testing
 
 Sebelum melakukan pemodelan, terlebih dahulu data dibagi menjadi dua yaitu data testing dan data training. Karena tidak adanya aturan pasti dalam pembagian seberapa banyak data training dan seberapa banyak data testing yang akan digunakan, sehingga pada penelitian ini kita akan melakukan 4 kali pembagian. Pertama kita akan membagi 50% data training dan 50% data testing, kedua membagi 60% sebagai data training dan 40% data testing, ketiga membagi 70% sebagai data training dan 30% data testing dan keempat membagi 80% sebagai data training dan 20% data testing.
